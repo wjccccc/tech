@@ -1,0 +1,8 @@
+opensuse vlc播放器标准玩法
+
+sudo zypper ar http://download.videolan.org/pub/vlc/SuSE/Leap_42.2/ vlc
+sudo zypper ar http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Leap_42.2/ packman
+sudo zypper ref
+
+sudo zypper in vlc ffmpeg-tools  vlc-codecs
+
