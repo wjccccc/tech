@@ -1,0 +1,4 @@
+sudo zypper addrepo -f http://mirrors.aliyun.com/opensuse/distribution/leap/42.2/repo/oss/ openSUSE-42.2-aliyun-Oss
+sudo zypper addrepo -f http://mirrors.aliyun.com/opensuse/distribution/leap/42.2/repo/non-oss/ openSUSE-42.2-aliyun-Non-Oss
+sudo zypper addrepo -f http://mirrors.aliyun.com/opensuse/update/leap/42.2/oss/ openSUSE-42.2-aliyun-update-Oss
+sudo zypper addrepo -f http://mirrors.aliyun.com/opensuse/update/leap/42.2/non-oss/ openSUSE-42.2-aliyun-update-Non-Oss
