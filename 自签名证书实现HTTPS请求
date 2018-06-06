@@ -210,3 +210,5 @@ return trustedPublicKeyCount > 0 && ((self.validatesCertificateChain) || (!self.
 去掉了第二块中的trustedPublicKeyCount == [serverCertificates count]的条件。
 
 这边使用的AFNetworking的版本为2.5.3，如果其他版本有不同之处请自行根据实际情况修改。
+
+
